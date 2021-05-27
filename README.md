@@ -245,3 +245,5 @@ A diferencia del resto nos permite trabajar con decimales, y es el mas complejo 
 ![Let command](imgs/bc_command.png)
 
 #### Bueno este fue un paso a paso, super robado y super básico. Pero nos dejo una idea general de como trabajar en bash.
+
+Para profundizar mas se recomienda -> https://www.gnu.org/software/bash/manual/html_node/ .
